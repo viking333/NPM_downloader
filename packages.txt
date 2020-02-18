@@ -1,1 +1,1 @@
-package_name@version
+Package_Name@Version_Number
